@@ -1,3 +1,9 @@
+# COVID-19 Case Tracker
+
+## About this Project
+
+A tutorial I followed to build an interactive graph that tracks COVID-19 cases around the world.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
